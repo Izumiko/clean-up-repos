@@ -14,5 +14,6 @@ jobs:
           token: ${{ secrets.AUTH_PAT }}
           repository: |
             Izumiko/lobe-chat
-            Izumiko/docker-mihomo
+            Izumiko/ChatGPT-Next-Web
+            Izumiko/clean-up-repos
           retain_days: 14
